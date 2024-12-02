@@ -1,0 +1,5 @@
+# Do not upload node_modules as the files size are too big
+node_modules/
+
+# Do not expose .env
+.env
